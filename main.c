@@ -10,7 +10,7 @@ int main(void)
 {
     Student student;
 
-    printf("=== Student Management System ===\n");
+    printf("=== Student Information System ===\n");
 
     printf("Enter student ID: ");
     scanf("%d", &student.id);
